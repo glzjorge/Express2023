@@ -7,7 +7,6 @@ app.get ('/', function(req,res){
 });
 
 app.listen(3000, function(){
-    console.log('Aplicacion ejemplo, escucnado el puerto 3000');
+    console.log('Aplicacion ejemplo, escuchando el puerto 3000');
 
 });
-
